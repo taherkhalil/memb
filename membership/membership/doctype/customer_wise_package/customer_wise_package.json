@@ -237,7 +237,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2017-10-15 22:56:44.322981", 
+ "modified": "2017-10-23 14:11:09.764167", 
  "modified_by": "Administrator", 
  "module": "Membership", 
  "name": "Customer wise package", 
@@ -268,9 +268,11 @@
  "quick_entry": 1, 
  "read_only": 0, 
  "read_only_onload": 0, 
+ "search_fields": "package", 
  "show_name_in_global_search": 0, 
  "sort_field": "modified", 
  "sort_order": "DESC", 
+ "title_field": "", 
  "track_changes": 1, 
  "track_seen": 0
 }
