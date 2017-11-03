@@ -2,6 +2,11 @@
 // For license information, please see license.txt
 
 frappe.ui.form.on('Membership', {
+	validate:function(frm){
+
+		this.frm.refresh_fields();
+		console.log("js function")
+	}
 	// refresh: function(frm) {
 
 	// }
